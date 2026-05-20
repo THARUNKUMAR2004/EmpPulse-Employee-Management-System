@@ -4,7 +4,7 @@ package project;
  * Contains all Query required to perform the mysql operation it is used in
  * Operations Class.
  * 
- * @author Prathamesh
+ *  
  *
  */
 public class Query {
