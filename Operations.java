@@ -12,7 +12,7 @@ import java.util.Vector;
  * <b>Operations</b> Class contains all the operation like Insert,delete,update
  * and display</br>
  * 
- * @author Prathamesh
+ 
  *
  */
 public class Operations {
