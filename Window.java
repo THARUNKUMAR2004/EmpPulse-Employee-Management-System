@@ -25,8 +25,7 @@ import javax.swing.JComboBox;
 
 /**
  * This Class Contains all the GUI components. <b> Window</b>
- * 
- * @author Prathamesh
+ *  
  *
  */
 public class Window {
