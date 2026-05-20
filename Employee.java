@@ -7,7 +7,7 @@ import java.util.HashMap;
  * The main Work of this class is to store the employee details and hide it from
  * getting any details.
  * 
- * @author Prathamesh
+ 
  *
  */
 public final class Employee {
